@@ -1,5 +1,6 @@
 #!name=YouTube
 #!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
+#!desc=去广告
 
 [Mitm]
 hostname = youtubei.googleapis.com
