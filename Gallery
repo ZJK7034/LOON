@@ -1,5 +1,6 @@
 #!name=Loon Gallery
 #!icon=https://avatars.githubusercontent.com/u/38467044?v=4
+#!desc=插件仓库
 
 [MITM]
 hostname=xn--ck8h.com
