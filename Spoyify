@@ -1,6 +1,9 @@
 #!name=Spotify
 #!icon=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spotify.png
 
+[General]
+skip-proxy = audio-ak-spotify-com.akamaized.net
+
 [Mitm]
 hostname =spclient.wg.spotify.com
 
